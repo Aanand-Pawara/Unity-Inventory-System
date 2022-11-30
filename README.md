@@ -6,7 +6,9 @@ this inventory system is suitable for both 2D and 3D Unity Games it has Advance 
 # Features
 
 - Save System
-- lexible
+- Flexible
 - Different types of Items support
-- Different types if Inventory
+- Different types of Inventory
 - Stacks support
+- Item share with other Inventories
+- Multiple Inventory support
