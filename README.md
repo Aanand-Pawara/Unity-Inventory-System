@@ -12,3 +12,4 @@ this inventory system is suitable for both 2D and 3D Unity Games it has Advance 
 - Stacks support
 - Item share with other Inventories
 - Multiple Inventory support
+\
